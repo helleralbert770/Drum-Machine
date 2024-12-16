@@ -59,12 +59,6 @@ The drum machine includes the following sounds:
    npm start
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
-
-### Online
-
-You can view the live project here: [Live Demo](https://your-live-demo-link.com)
-
 ## Technologies Used
 
 - **React**: For building the user interface.
